@@ -1,0 +1,24 @@
+{
+  "name": "gdrive-fs",
+  "version": "1.0.0",
+  "description": "A google drive api v2 wrapper enabling file-system like interaction",
+  "main": "googleDrive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigel-smk/gdrive-fs.git"
+  },
+  "author": "Nigel Maynard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigel-smk/gdrive-fs/issues"
+  },
+  "homepage": "https://github.com/nigel-smk/gdrive-fs#readme",
+  "dependencies": {
+    "googleapis": "^16.1.0",
+    "mime-types": "^2.1.14",
+    "queue": "^4.2.1"
+  }
+}
